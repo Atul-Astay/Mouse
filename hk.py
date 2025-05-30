@@ -5,3 +5,5 @@ for i in range(10):
     print(i)
 
 print("Data scientist")
+
+print("Machine learning")
